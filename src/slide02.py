@@ -1,0 +1,10 @@
+
+# Enkel addisjon av heltall
+print "2 + 2 =", 2+2
+
+# Heltall og flyttall blir flyttall
+print "2 + 3.3 =",2+3.3
+
+# Ingen grense for hvor store tall man kan jobbe med
+print "1234567890123456789123456789123456789 + 1234567890123456789123456789123456789 =",
+print 1234567890123456789123456789123456789+1234567890123456789123456789123456789
