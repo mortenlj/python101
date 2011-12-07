@@ -1,0 +1,10 @@
+Things to mention:
+
+Linux Journal Readers choice award three years running
+http://www.linuxjournal.com/slideshow/readers-choice-2011?page=27
+
+Used by ILM, NASA, .... (fill in more)
+
+Used for scripting the game engine in Civ IV and Civ V
+
+Used in EVE Online (?)
