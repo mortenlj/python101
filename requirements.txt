@@ -1,0 +1,3 @@
+svn+https://docutils.svn.sourceforge.net/svnroot/docutils/trunk/docutils/
+git+https://github.com/mattharrison/rst2odp.git
+pygments
