@@ -6,7 +6,11 @@ Python 101
     :align: center
     :alt: http://xkcd.com/353/
 
-    "I wrote 20 short programs in Python yesterday.  It was wonderful.  Perl, I'm leaving you." -- Randall Munroe
+.. epigraph::
+
+    I wrote 20 short programs in Python yesterday.  It was wonderful.  Perl, I'm leaving you.
+
+    -- Randall Munroe
 
 Hello World
 ===========
