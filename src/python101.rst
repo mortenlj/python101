@@ -17,18 +17,16 @@ Hello World
 
 Dette er første avsnitt
 
-.. code:: python
-
-    .. include:: slide01.py
+.. include:: slide01.py
+    :code: python
 
 Litt mer avansert
 =================
 
 Dette er andre slide
 
-.. code:: python
-
-    .. include:: slide02.py
+.. include:: slide02.py
+    :code: python
 
 Neste
 =====
