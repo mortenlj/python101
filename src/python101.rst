@@ -15,10 +15,18 @@ Python 101
 Hello World
 ===========
 
-Dette er første avsnitt
+Vi starter enkelt, med det klassiske Hello World eksempelet.
 
-.. include:: slide01.py
-    :code: python
+.. admonition:: Code
+
+    .. include:: slide01.py
+        :code: python
+        :number-lines:
+
+.. admonition:: Output
+
+    .. include:: slide01.out
+        :code:
 
 Litt mer avansert
 =================
