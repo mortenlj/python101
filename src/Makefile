@@ -17,6 +17,6 @@ clean :
 $(RESULTS) : %out: %py
 	python $< > $@
 
-python101.odp : python101.rst ${SRCS} ${RESULTS}
+#python101.odp : python101.rst ${SRCS} ${RESULTS}
 
 python101.html : python101.rst ${SRCS} ${RESULTS}
