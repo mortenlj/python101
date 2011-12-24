@@ -86,3 +86,45 @@ Funksjoner (2)
 
     .. include:: slide05.out
         :code:
+
+Standard datatyper (dict)
+=========================
+
+.. admonition:: Code
+
+    .. include:: slide06.py
+        :code: python
+        :number-lines:
+
+.. admonition:: Output
+
+    .. include:: slide06.out
+        :code:
+
+Standard datatyper (list og tuple)
+==================================
+
+.. admonition:: Code
+
+    .. include:: slide07.py
+        :code: python
+        :number-lines:
+
+.. admonition:: Output
+
+    .. include:: slide07.out
+        :code:
+
+Standard datatyper (set)
+========================
+
+.. admonition:: Code
+
+    .. include:: slide08.py
+        :code: python
+        :number-lines:
+
+.. admonition:: Output
+
+    .. include:: slide08.out
+        :code:
