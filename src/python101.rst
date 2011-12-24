@@ -19,13 +19,13 @@ Vi starter enkelt, med det klassiske Hello World eksempelet.
 
 .. admonition:: Code
 
-    .. include:: slide01.py
+    .. include:: hello.py
         :code: python
         :number-lines:
 
 .. admonition:: Output
 
-    .. include:: slide01.out
+    .. include:: hello.out
         :code:
 
 Tall og slikt
@@ -33,30 +33,28 @@ Tall og slikt
 
 .. admonition:: Code
 
-    .. include:: slide02.py
+    .. include:: numbers.py
         :code: python
         :number-lines:
 
 .. admonition:: Output
 
-    .. include:: slide02.out
+    .. include:: numbers.out
         :code:
 
 
 Tekstformattering
 =================
 
-Python har gode muligheter for å formatere tekst, og enkelt bygge opp en streng ved hjelp av variabler av forskjellige typer.
-
 .. admonition:: Code
 
-    .. include:: slide03.py
+    .. include:: text.py
         :code: python
         :number-lines:
 
 .. admonition:: Output
 
-    .. include:: slide03.out
+    .. include:: text.out
         :code:
 
 Funksjoner
@@ -64,13 +62,13 @@ Funksjoner
 
 .. admonition:: Code
 
-    .. include:: slide04.py
+    .. include:: func1.py
         :code: python
         :number-lines:
 
 .. admonition:: Output
 
-    .. include:: slide04.out
+    .. include:: func1.out
         :code:
 
 Funksjoner (2)
@@ -78,13 +76,13 @@ Funksjoner (2)
 
 .. admonition:: Code
 
-    .. include:: slide05.py
+    .. include:: func2.py
         :code: python
         :number-lines:
 
 .. admonition:: Output
 
-    .. include:: slide05.out
+    .. include:: func2.out
         :code:
 
 Standard datatyper (dict)
@@ -92,13 +90,13 @@ Standard datatyper (dict)
 
 .. admonition:: Code
 
-    .. include:: slide06.py
+    .. include:: data_dict.py
         :code: python
         :number-lines:
 
 .. admonition:: Output
 
-    .. include:: slide06.out
+    .. include:: data_dict.out
         :code:
 
 Standard datatyper (list og tuple)
@@ -106,13 +104,13 @@ Standard datatyper (list og tuple)
 
 .. admonition:: Code
 
-    .. include:: slide07.py
+    .. include:: data_list_tuple.py
         :code: python
         :number-lines:
 
 .. admonition:: Output
 
-    .. include:: slide07.out
+    .. include:: data_list_tuple.out
         :code:
 
 Standard datatyper (set)
@@ -120,11 +118,11 @@ Standard datatyper (set)
 
 .. admonition:: Code
 
-    .. include:: slide08.py
+    .. include:: data_set.py
         :code: python
         :number-lines:
 
 .. admonition:: Output
 
-    .. include:: slide08.out
+    .. include:: data_set.out
         :code:
