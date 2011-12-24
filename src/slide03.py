@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8
 
-print "Innebygd støtte for imaginære tall"
-print "3 + 1j * 3 =", 3+1j*3
-print "(3+1j) * 3=", (3+1j)*3
-print "(1+2j) / (1+1j)=", (1+2j)/(1+1j)
+# Utstrakte muligheter for formattering av tekst
+print "| %2.2f | %05d | %-10s | %10s |" % (3.141592653589793, 42, "Hei", "Hopp")
+
+# En nyere formatterings funksjon som kan gjøre enda mer
+print "| {0:2.3} | {2:10} | {1:05} | {3:>10} |".format(3.141592653589793, 42, "Hei", "Hopp")

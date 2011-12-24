@@ -1,8 +1,18 @@
 #!/usr/bin/env python
 # -*- coding: utf-8
 
-print "Utstrakte muligheter for formattering av tekst"
-print "| %2.2f | %05d | %-10s | %10s |" % (3.141592653589793, 42, "Hei", "Hopp")
+def hello(name):
+    print "Hello %s" % name
 
-print "En nyere formatterings funksjon som kan gjøre enda mer"
-print "| {0:2.3} | {2:10} | {1:05} | {3:>10} |".format(3.141592653589793, 42, "Hei", "Hopp")
+hello("World")
+
+def hello_all(*names):
+    print "Hello %s" % ", ".join(names)
+
+hello_all("Graham", "John", "Terry", "Eric", "Terry", "Michael")
+
+def hello_prefix(name, prefix="Hello"):
+    print "%s %s" % (prefix, name)
+
+hello_prefix("World")
+hello_prefix("Verden", "Hallo")
