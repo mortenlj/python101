@@ -1,3 +1,4 @@
 svn+https://docutils.svn.sourceforge.net/svnroot/docutils/trunk/docutils/
 git+https://github.com/mattharrison/rst2odp.git
+PIL # rst2odp needs this, but doesn't depend on it properly
 pygments
