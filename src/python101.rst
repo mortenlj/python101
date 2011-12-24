@@ -72,3 +72,17 @@ Funksjoner
 
     .. include:: slide04.out
         :code:
+
+Funksjoner (2)
+==============
+
+.. admonition:: Code
+
+    .. include:: slide05.py
+        :code: python
+        :number-lines:
+
+.. admonition:: Output
+
+    .. include:: slide05.out
+        :code:
