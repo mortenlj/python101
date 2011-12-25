@@ -133,6 +133,32 @@ Klasser
     .. include:: classes.out
         :code:
 
+Generators
+==========
+
+.. admonition:: Code
+
+    .. include:: generator.py
+        :code: python
+
+.. admonition:: Output
+
+    .. include:: generator.out
+        :code:
+
+Generators (2)
+==============
+
+.. admonition:: Code
+
+    .. include:: generator2.py
+        :code: python
+
+.. admonition:: Output
+
+    .. include:: generator2.out
+        :code:
+
 Descriptors
 ===========
 
