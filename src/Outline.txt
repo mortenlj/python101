@@ -11,4 +11,7 @@
 - Decorator (http://stackoverflow.com/questions/101268/hidden-features-of-python#101447)
 - Ny klasser on the fly
 - New types on the fly (http://stackoverflow.com/questions/101268/hidden-features-of-python#108297)
+- Importing modules and packages
+- The standard library
 - The Zen of Python (http://www.wefearchange.org/2010/06/import-this-and-zen-of-python.html)
+- Notes about Python usage
