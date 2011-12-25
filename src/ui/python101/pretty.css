@@ -1,4 +1,7 @@
 @import url(../syntax/default.css); /* adding syntax highlighting */
+
+.code { background: #111;}
+
 /* Following are the presentation styles -- edit away! */
 
 body {background: #000; color: #fff; font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; font-size: 1.25em;}
