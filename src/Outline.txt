@@ -2,6 +2,7 @@
 - Tall og slikt
 - Tekst formatering
 - Datatyper
+- Control-structures
 - List-comprehensions and generators (http://stackoverflow.com/questions/101268/hidden-features-of-python#101310)
 - Funksjoner, varargs, keywordargs
 - Klasser
