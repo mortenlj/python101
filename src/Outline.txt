@@ -1,0 +1,14 @@
+- Hello world
+- Tall og slikt
+- Tekst formatering
+- Datatyper
+- List-comprehensions and generators (http://stackoverflow.com/questions/101268/hidden-features-of-python#101310)
+- Funksjoner, varargs, keywordargs
+- Klasser
+- Descriptors (http://stackoverflow.com/questions/101268/hidden-features-of-python#102062)
+- Generators (http://stackoverflow.com/questions/101268/hidden-features-of-python#101739)
+- Nye funksjoner on the fly (closures)
+- Decorator (http://stackoverflow.com/questions/101268/hidden-features-of-python#101447)
+- Ny klasser on the fly
+- New types on the fly (http://stackoverflow.com/questions/101268/hidden-features-of-python#108297)
+- The Zen of Python (http://www.wefearchange.org/2010/06/import-this-and-zen-of-python.html)
