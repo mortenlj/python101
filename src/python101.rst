@@ -15,8 +15,6 @@ Python 101
 Hello World
 ===========
 
-Vi starter enkelt, med det klassiske Hello World eksempelet.
-
 .. admonition:: Code
 
     .. include:: hello.py
@@ -27,8 +25,8 @@ Vi starter enkelt, med det klassiske Hello World eksempelet.
     .. include:: hello.out
         :code:
 
-Tall og slikt
-=============
+Numbers
+=======
 
 .. admonition:: Code
 
@@ -41,8 +39,8 @@ Tall og slikt
         :code:
 
 
-Tekstformattering
-=================
+Strings and formatting
+======================
 
 .. admonition:: Code
 
@@ -54,7 +52,7 @@ Tekstformattering
     .. include:: text.out
         :code:
 
-Standard datatyper (dict)
+Built-in datatypes (dict)
 =========================
 
 .. admonition:: Code
@@ -67,8 +65,8 @@ Standard datatyper (dict)
     .. include:: data_dict.out
         :code:
 
-Standard datatyper (list og tuple)
-==================================
+Built-in datatypes (list and tuple)
+===================================
 
 .. admonition:: Code
 
@@ -80,7 +78,7 @@ Standard datatyper (list og tuple)
     .. include:: data_list_tuple.out
         :code:
 
-Standard datatyper (set)
+Built-in datatypes (set)
 ========================
 
 .. admonition:: Code
@@ -93,8 +91,8 @@ Standard datatyper (set)
     .. include:: data_set.out
         :code:
 
-Funksjoner
-==========
+Functions
+=========
 
 .. admonition:: Code
 
@@ -106,8 +104,8 @@ Funksjoner
     .. include:: func1.out
         :code:
 
-Funksjoner (2)
-==============
+Functions (2)
+=============
 
 .. admonition:: Code
 
@@ -120,7 +118,7 @@ Funksjoner (2)
         :code:
 
 
-Klasser
+Classes
 =======
 
 .. admonition:: Code
