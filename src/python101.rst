@@ -57,34 +57,6 @@ Tekstformattering
     .. include:: text.out
         :code:
 
-Funksjoner
-==========
-
-.. admonition:: Code
-
-    .. include:: func1.py
-        :code: python
-        :number-lines:
-
-.. admonition:: Output
-
-    .. include:: func1.out
-        :code:
-
-Funksjoner (2)
-==============
-
-.. admonition:: Code
-
-    .. include:: func2.py
-        :code: python
-        :number-lines:
-
-.. admonition:: Output
-
-    .. include:: func2.out
-        :code:
-
 Standard datatyper (dict)
 =========================
 
@@ -126,3 +98,32 @@ Standard datatyper (set)
 
     .. include:: data_set.out
         :code:
+
+Funksjoner
+==========
+
+.. admonition:: Code
+
+    .. include:: func1.py
+        :code: python
+        :number-lines:
+
+.. admonition:: Output
+
+    .. include:: func1.out
+        :code:
+
+Funksjoner (2)
+==============
+
+.. admonition:: Code
+
+    .. include:: func2.py
+        :code: python
+        :number-lines:
+
+.. admonition:: Output
+
+    .. include:: func2.out
+        :code:
+
