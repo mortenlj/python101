@@ -21,7 +21,6 @@ Vi starter enkelt, med det klassiske Hello World eksempelet.
 
     .. include:: hello.py
         :code: python
-        :number-lines:
 
 .. admonition:: Output
 
@@ -35,7 +34,6 @@ Tall og slikt
 
     .. include:: numbers.py
         :code: python
-        :number-lines:
 
 .. admonition:: Output
 
@@ -50,7 +48,6 @@ Tekstformattering
 
     .. include:: text.py
         :code: python
-        :number-lines:
 
 .. admonition:: Output
 
@@ -64,7 +61,6 @@ Standard datatyper (dict)
 
     .. include:: data_dict.py
         :code: python
-        :number-lines:
 
 .. admonition:: Output
 
@@ -78,7 +74,6 @@ Standard datatyper (list og tuple)
 
     .. include:: data_list_tuple.py
         :code: python
-        :number-lines:
 
 .. admonition:: Output
 
@@ -92,7 +87,6 @@ Standard datatyper (set)
 
     .. include:: data_set.py
         :code: python
-        :number-lines:
 
 .. admonition:: Output
 
@@ -106,7 +100,6 @@ Funksjoner
 
     .. include:: func1.py
         :code: python
-        :number-lines:
 
 .. admonition:: Output
 
@@ -120,7 +113,6 @@ Funksjoner (2)
 
     .. include:: func2.py
         :code: python
-        :number-lines:
 
 .. admonition:: Output
 
@@ -135,7 +127,6 @@ Klasser
 
     .. include:: classes.py
         :code: python
-        :number-lines:
 
 .. admonition:: Output
 
