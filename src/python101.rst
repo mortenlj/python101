@@ -132,3 +132,16 @@ Klasser
 
     .. include:: classes.out
         :code:
+
+Descriptors
+===========
+
+.. admonition:: Code
+
+    .. include:: descriptors.py
+        :code: python
+
+.. admonition:: Output
+
+    .. include:: descriptors.out
+        :code:
