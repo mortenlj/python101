@@ -127,3 +127,17 @@ Funksjoner (2)
     .. include:: func2.out
         :code:
 
+
+Klasser
+=======
+
+.. admonition:: Code
+
+    .. include:: classes.py
+        :code: python
+        :number-lines:
+
+.. admonition:: Output
+
+    .. include:: classes.out
+        :code:
