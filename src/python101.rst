@@ -93,6 +93,43 @@ Built-in datatypes (set)
     .. include:: data_set.out
         :code:
 
+Control structures (if)
+=======================
+
+.. admonition:: Code
+
+    .. include:: if.py
+        :code: python
+
+.. admonition:: Output
+
+    .. include:: if.out
+        :code:
+
+Control structures (for)
+========================
+
+.. admonition:: Code
+
+    .. include:: for.py
+        :code: python
+
+.. admonition:: Output
+
+    .. include:: for.out
+        :code:
+
+
+Control structures (while)
+==========================
+
+TODO:
+
+Control structures (try)
+========================
+
+TODO:
+
 Functions
 =========
 
