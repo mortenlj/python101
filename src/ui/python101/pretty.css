@@ -122,9 +122,7 @@ html>body div#controls {background: transparent; position: fixed; padding: 0; to
 ul.urls {list-style: none; display: inline; margin: 0;}
 .urls li {display: inline; margin: 0;}
 .note {display: none;}
-.external {border-bottom: 1px dotted gray;}
 html>body .external {border-bottom: none;}
-.external:after {content: " \274F"; font-size: smaller; color: #F93;}
 
 .incremental, .incremental *, .incremental *:after {color: #999; visibility: visible;}
 img.incremental, canvas.incremental {visibility: hidden;}

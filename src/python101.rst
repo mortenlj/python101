@@ -2,6 +2,8 @@
 Python 101
 ==========
 
+.. footer:: http://bitbucket.org/mortenlj/python101
+
 .. figure:: python.png
     :align: center
     :alt: http://xkcd.com/353/
