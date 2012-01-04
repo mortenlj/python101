@@ -123,7 +123,21 @@ Control structures (for)
 Control structures (while)
 ==========================
 
-TODO:
+.. admonition:: Code
+
+    .. include:: while.py
+        :code: python
+
+.. admonition:: Output
+
+    .. include:: while.out
+        :code:
+
+.. topic:: notes
+    :class: hidden print
+
+    - It's possible to add an `else`-clause to this, similar to the `for`-loop
+
 
 Control structures (try)
 ========================
