@@ -142,7 +142,15 @@ Control structures (while)
 Control structures (try)
 ========================
 
-TODO:
+.. admonition:: Code
+
+    .. include:: try.py
+        :code: python
+
+.. admonition:: Output
+
+    .. include:: try.out
+        :code:
 
 Functions
 =========
@@ -210,6 +218,46 @@ Generators (2)
     .. include:: generator2.out
         :code:
 
+List-comprehensions
+===================
+
+.. admonition:: Code
+
+    .. include:: comprehensions.py
+        :code: python
+
+.. admonition:: Output
+
+    .. include:: comprehensions.out
+        :code:
+
+New functions on the fly
+========================
+
+.. admonition:: Code
+
+    .. include:: new_func.py
+        :code: python
+
+.. admonition:: Output
+
+    .. include:: new_func.out
+        :code:
+
+Decorators
+==========
+
+.. admonition:: Code
+
+    .. include:: decorator.py
+        :code: python
+
+.. admonition:: Output
+
+    .. include:: decorator.out
+        :code:
+
+
 Descriptors
 ===========
 
@@ -222,3 +270,57 @@ Descriptors
 
     .. include:: descriptors.out
         :code:
+
+New types on the fly
+====================
+
+.. admonition:: Code
+
+    .. include:: new_type.py
+        :code: python
+
+.. admonition:: Output
+
+    .. include:: new_type.out
+        :code:
+
+Modules and packages
+====================
+
+.. admonition:: Code
+
+    .. include:: import_modules.py
+        :code: python
+
+.. admonition:: Output
+
+    .. include:: import_modules.out
+        :code:
+
+The standard library
+====================
+
+TODO: Write some text
+
+The Zen of Python
+=================
+
+.. admonition:: Code
+
+    .. include:: zen.py
+        :code: python
+
+.. admonition:: Output
+
+    .. include:: zen.out
+        :code:
+
+Python usage around the world
+=============================
+
+TODO: Add some information from Notes and elsewhere
+
+Where to go from here
+=====================
+
+TODO: Lots of links etc.
