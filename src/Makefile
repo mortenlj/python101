@@ -3,10 +3,10 @@ SRCS := $(wildcard *.py)
 RESULTS := $(SRCS:.py=.out)
 
 .PHONY: all clean
-all : python101.html #python101.odp
+all : python101.html python101.odp
 
 clean :
-	rm -f python101.html python101.odp ${RESULTS}
+	rm -f python101.html python101.odp *.out
 
 %.odp : %.rst
 	"rst2odp.py" $< $@
