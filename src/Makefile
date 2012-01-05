@@ -1,12 +1,12 @@
 
-SRCS := $(wildcard *.py)
+SRCS := $(wildcard code/*.py)
 RESULTS := $(SRCS:.py=.out)
 
 .PHONY: all clean
 all : python101.html python101.odp
 
 clean :
-	rm -f python101.html python101.odp *.out
+	rm -f python101.html python101.odp code/*.out
 
 %.odp : %.rst
 	"rst2odp.py" $< $@
