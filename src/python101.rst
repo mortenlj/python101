@@ -17,12 +17,12 @@ Python 101
 Hello World
 ===========
 
-.. admonition:: Code
+.. topic:: Code
 
     .. include:: hello.py
         :code: python
 
-.. admonition:: Output
+.. topic:: Output
 
     .. include:: hello.out
         :code:
@@ -30,12 +30,12 @@ Hello World
 Numbers
 =======
 
-.. admonition:: Code
+.. topic:: Code
 
     .. include:: numbers.py
         :code: python
 
-.. admonition:: Output
+.. topic:: Output
 
     .. include:: numbers.out
         :code:
@@ -44,12 +44,12 @@ Numbers
 Strings and formatting
 ======================
 
-.. admonition:: Code
+.. topic:: Code
 
     .. include:: text.py
         :code: python
 
-.. admonition:: Output
+.. topic:: Output
 
     .. include:: text.out
         :code:
@@ -57,12 +57,12 @@ Strings and formatting
 Built-in datatypes (dict)
 =========================
 
-.. admonition:: Code
+.. topic:: Code
 
     .. include:: data_dict.py
         :code: python
 
-.. admonition:: Output
+.. topic:: Output
 
     .. include:: data_dict.out
         :code:
@@ -70,12 +70,12 @@ Built-in datatypes (dict)
 Built-in datatypes (list and tuple)
 ===================================
 
-.. admonition:: Code
+.. topic:: Code
 
     .. include:: data_list_tuple.py
         :code: python
 
-.. admonition:: Output
+.. topic:: Output
 
     .. include:: data_list_tuple.out
         :code:
@@ -83,12 +83,12 @@ Built-in datatypes (list and tuple)
 Built-in datatypes (set)
 ========================
 
-.. admonition:: Code
+.. topic:: Code
 
     .. include:: data_set.py
         :code: python
 
-.. admonition:: Output
+.. topic:: Output
 
     .. include:: data_set.out
         :code:
@@ -96,12 +96,12 @@ Built-in datatypes (set)
 Control structures (if)
 =======================
 
-.. admonition:: Code
+.. topic:: Code
 
     .. include:: if.py
         :code: python
 
-.. admonition:: Output
+.. topic:: Output
 
     .. include:: if.out
         :code:
@@ -109,12 +109,12 @@ Control structures (if)
 Control structures (for)
 ========================
 
-.. admonition:: Code
+.. topic:: Code
 
     .. include:: for.py
         :code: python
 
-.. admonition:: Output
+.. topic:: Output
 
     .. include:: for.out
         :code:
@@ -123,12 +123,12 @@ Control structures (for)
 Control structures (while)
 ==========================
 
-.. admonition:: Code
+.. topic:: Code
 
     .. include:: while.py
         :code: python
 
-.. admonition:: Output
+.. topic:: Output
 
     .. include:: while.out
         :code:
@@ -142,12 +142,12 @@ Control structures (while)
 Control structures (try)
 ========================
 
-.. admonition:: Code
+.. topic:: Code
 
     .. include:: try.py
         :code: python
 
-.. admonition:: Output
+.. topic:: Output
 
     .. include:: try.out
         :code:
@@ -155,12 +155,12 @@ Control structures (try)
 Functions
 =========
 
-.. admonition:: Code
+.. topic:: Code
 
     .. include:: func1.py
         :code: python
 
-.. admonition:: Output
+.. topic:: Output
 
     .. include:: func1.out
         :code:
@@ -168,12 +168,12 @@ Functions
 Functions (2)
 =============
 
-.. admonition:: Code
+.. topic:: Code
 
     .. include:: func2.py
         :code: python
 
-.. admonition:: Output
+.. topic:: Output
 
     .. include:: func2.out
         :code:
@@ -182,12 +182,12 @@ Functions (2)
 Classes
 =======
 
-.. admonition:: Code
+.. topic:: Code
 
     .. include:: classes.py
         :code: python
 
-.. admonition:: Output
+.. topic:: Output
 
     .. include:: classes.out
         :code:
@@ -195,12 +195,12 @@ Classes
 Generators
 ==========
 
-.. admonition:: Code
+.. topic:: Code
 
     .. include:: generator.py
         :code: python
 
-.. admonition:: Output
+.. topic:: Output
 
     .. include:: generator.out
         :code:
@@ -208,12 +208,12 @@ Generators
 Generators (2)
 ==============
 
-.. admonition:: Code
+.. topic:: Code
 
     .. include:: generator2.py
         :code: python
 
-.. admonition:: Output
+.. topic:: Output
 
     .. include:: generator2.out
         :code:
@@ -221,12 +221,12 @@ Generators (2)
 List-comprehensions
 ===================
 
-.. admonition:: Code
+.. topic:: Code
 
     .. include:: comprehensions.py
         :code: python
 
-.. admonition:: Output
+.. topic:: Output
 
     .. include:: comprehensions.out
         :code:
@@ -234,12 +234,12 @@ List-comprehensions
 New functions on the fly
 ========================
 
-.. admonition:: Code
+.. topic:: Code
 
     .. include:: new_func.py
         :code: python
 
-.. admonition:: Output
+.. topic:: Output
 
     .. include:: new_func.out
         :code:
@@ -247,12 +247,12 @@ New functions on the fly
 Decorators
 ==========
 
-.. admonition:: Code
+.. topic:: Code
 
     .. include:: decorator.py
         :code: python
 
-.. admonition:: Output
+.. topic:: Output
 
     .. include:: decorator.out
         :code:
@@ -261,12 +261,12 @@ Decorators
 Descriptors
 ===========
 
-.. admonition:: Code
+.. topic:: Code
 
     .. include:: descriptors.py
         :code: python
 
-.. admonition:: Output
+.. topic:: Output
 
     .. include:: descriptors.out
         :code:
@@ -274,12 +274,12 @@ Descriptors
 New types on the fly
 ====================
 
-.. admonition:: Code
+.. topic:: Code
 
     .. include:: new_type.py
         :code: python
 
-.. admonition:: Output
+.. topic:: Output
 
     .. include:: new_type.out
         :code:
@@ -287,12 +287,12 @@ New types on the fly
 Modules and packages
 ====================
 
-.. admonition:: Code
+.. topic:: Code
 
     .. include:: import_modules.py
         :code: python
 
-.. admonition:: Output
+.. topic:: Output
 
     .. include:: import_modules.out
         :code:
@@ -305,12 +305,12 @@ TODO: Write some text
 The Zen of Python
 =================
 
-.. admonition:: Code
+.. topic:: Code
 
     .. include:: zen.py
         :code: python
 
-.. admonition:: Output
+.. topic:: Output
 
     .. include:: zen.out
         :code:
