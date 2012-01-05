@@ -300,7 +300,24 @@ Modules and packages
 The standard library
 ====================
 
-TODO: Write some text
+    "Batteries included"
+
+- String Services: regex, diff, wrapping, charset encoding etc.
+- Data Types: dates and calendars, collections, weakrefs, deepcopy utils, pretty printing
+- Numeric and Mathematical Modules: math functions, rational numbers, random, operators
+- File and Directory Access: filepath abstractions, file compare, tempfile, glob, shell-like utilities
+- Data Persistence: several serialization protocols, sqlite-database, DBM-databases
+- Data Compression and Archiving: zlib, gzip, bzip2, zip and tar
+- File Formats: CSV, ini-style, XDR
+- Cryptographic Services: MD5, SHA1, SHA224, SHA256, SHA384 and more
+- Operating System Services: streams, time, argument parsing, logging, OS abstractions and more
+- More Operating System Services: IO select, threading, multiprocessing, memory mapped files, readline
+- Interprocess Communication and Networking: subprocesses, socket, ssl and more
+- Internet Data Handling: Parsing email and MIME, json, mailboxes, base64, quoted-printable, uuencode
+- Structured Markup Processing Tools: HTMLParser, XML-parsers (dom, sax and etree)
+- Internet Protocols and Support: CGI, URL utils, FTP, POP, IMAP, NNTP, SMTP, telnet, XML-RPC with servers
+- ... Tk GUI modules, unittesting, debugger, profilers, build-tools, reflection and introspection utils
+- ... Import hooks, tokenizer, Python compiler, disassembler, documention generator and lots more!
 
 The Zen of Python
 =================
