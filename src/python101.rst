@@ -19,12 +19,12 @@ Hello World
 
 .. topic:: Code
 
-    .. include:: hello.py
+    .. include:: code/hello.py
         :code: python
 
 .. topic:: Output
 
-    .. include:: hello.out
+    .. include:: code/hello.out
         :code:
 
 Numbers
@@ -32,12 +32,12 @@ Numbers
 
 .. topic:: Code
 
-    .. include:: numbers.py
+    .. include:: code/numbers.py
         :code: python
 
 .. topic:: Output
 
-    .. include:: numbers.out
+    .. include:: code/numbers.out
         :code:
 
 
@@ -46,12 +46,12 @@ Strings and formatting
 
 .. topic:: Code
 
-    .. include:: text.py
+    .. include:: code/text.py
         :code: python
 
 .. topic:: Output
 
-    .. include:: text.out
+    .. include:: code/text.out
         :code:
 
 Built-in datatypes (dict)
@@ -59,12 +59,12 @@ Built-in datatypes (dict)
 
 .. topic:: Code
 
-    .. include:: data_dict.py
+    .. include:: code/data_dict.py
         :code: python
 
 .. topic:: Output
 
-    .. include:: data_dict.out
+    .. include:: code/data_dict.out
         :code:
 
 Built-in datatypes (list and tuple)
@@ -72,12 +72,12 @@ Built-in datatypes (list and tuple)
 
 .. topic:: Code
 
-    .. include:: data_list_tuple.py
+    .. include:: code/data_list_tuple.py
         :code: python
 
 .. topic:: Output
 
-    .. include:: data_list_tuple.out
+    .. include:: code/data_list_tuple.out
         :code:
 
 Built-in datatypes (set)
@@ -85,12 +85,12 @@ Built-in datatypes (set)
 
 .. topic:: Code
 
-    .. include:: data_set.py
+    .. include:: code/data_set.py
         :code: python
 
 .. topic:: Output
 
-    .. include:: data_set.out
+    .. include:: code/data_set.out
         :code:
 
 Control structures (if)
@@ -98,12 +98,12 @@ Control structures (if)
 
 .. topic:: Code
 
-    .. include:: if.py
+    .. include:: code/if.py
         :code: python
 
 .. topic:: Output
 
-    .. include:: if.out
+    .. include:: code/if.out
         :code:
 
 Control structures (for)
@@ -111,12 +111,12 @@ Control structures (for)
 
 .. topic:: Code
 
-    .. include:: for.py
+    .. include:: code/for.py
         :code: python
 
 .. topic:: Output
 
-    .. include:: for.out
+    .. include:: code/for.out
         :code:
 
 
@@ -125,12 +125,12 @@ Control structures (while)
 
 .. topic:: Code
 
-    .. include:: while.py
+    .. include:: code/while.py
         :code: python
 
 .. topic:: Output
 
-    .. include:: while.out
+    .. include:: code/while.out
         :code:
 
 .. topic:: notes
@@ -144,12 +144,12 @@ Control structures (try)
 
 .. topic:: Code
 
-    .. include:: try.py
+    .. include:: code/try.py
         :code: python
 
 .. topic:: Output
 
-    .. include:: try.out
+    .. include:: code/try.out
         :code:
 
 Functions
@@ -157,12 +157,12 @@ Functions
 
 .. topic:: Code
 
-    .. include:: func1.py
+    .. include:: code/func1.py
         :code: python
 
 .. topic:: Output
 
-    .. include:: func1.out
+    .. include:: code/func1.out
         :code:
 
 Functions (2)
@@ -170,12 +170,12 @@ Functions (2)
 
 .. topic:: Code
 
-    .. include:: func2.py
+    .. include:: code/func2.py
         :code: python
 
 .. topic:: Output
 
-    .. include:: func2.out
+    .. include:: code/func2.out
         :code:
 
 
@@ -184,12 +184,12 @@ Classes
 
 .. topic:: Code
 
-    .. include:: classes.py
+    .. include:: code/classes.py
         :code: python
 
 .. topic:: Output
 
-    .. include:: classes.out
+    .. include:: code/classes.out
         :code:
 
 Generators
@@ -197,12 +197,12 @@ Generators
 
 .. topic:: Code
 
-    .. include:: generator.py
+    .. include:: code/generator.py
         :code: python
 
 .. topic:: Output
 
-    .. include:: generator.out
+    .. include:: code/generator.out
         :code:
 
 Generators (2)
@@ -210,12 +210,12 @@ Generators (2)
 
 .. topic:: Code
 
-    .. include:: generator2.py
+    .. include:: code/generator2.py
         :code: python
 
 .. topic:: Output
 
-    .. include:: generator2.out
+    .. include:: code/generator2.out
         :code:
 
 List-comprehensions
@@ -223,12 +223,12 @@ List-comprehensions
 
 .. topic:: Code
 
-    .. include:: comprehensions.py
+    .. include:: code/comprehensions.py
         :code: python
 
 .. topic:: Output
 
-    .. include:: comprehensions.out
+    .. include:: code/comprehensions.out
         :code:
 
 New functions on the fly
@@ -236,12 +236,12 @@ New functions on the fly
 
 .. topic:: Code
 
-    .. include:: new_func.py
+    .. include:: code/new_func.py
         :code: python
 
 .. topic:: Output
 
-    .. include:: new_func.out
+    .. include:: code/new_func.out
         :code:
 
 Decorators
@@ -249,12 +249,12 @@ Decorators
 
 .. topic:: Code
 
-    .. include:: decorator.py
+    .. include:: code/decorator.py
         :code: python
 
 .. topic:: Output
 
-    .. include:: decorator.out
+    .. include:: code/decorator.out
         :code:
 
 
@@ -263,12 +263,12 @@ Descriptors
 
 .. topic:: Code
 
-    .. include:: descriptors.py
+    .. include:: code/descriptors.py
         :code: python
 
 .. topic:: Output
 
-    .. include:: descriptors.out
+    .. include:: code/descriptors.out
         :code:
 
 New types on the fly
@@ -276,12 +276,12 @@ New types on the fly
 
 .. topic:: Code
 
-    .. include:: new_type.py
+    .. include:: code/new_type.py
         :code: python
 
 .. topic:: Output
 
-    .. include:: new_type.out
+    .. include:: code/new_type.out
         :code:
 
 Modules and packages
@@ -289,12 +289,12 @@ Modules and packages
 
 .. topic:: Code
 
-    .. include:: import_modules.py
+    .. include:: code/import_modules.py
         :code: python
 
 .. topic:: Output
 
-    .. include:: import_modules.out
+    .. include:: code/import_modules.out
         :code:
 
 The standard library
@@ -307,12 +307,12 @@ The Zen of Python
 
 .. topic:: Code
 
-    .. include:: zen.py
+    .. include:: code/zen.py
         :code: python
 
 .. topic:: Output
 
-    .. include:: zen.out
+    .. include:: code/zen.out
         :code:
 
 Python usage around the world
