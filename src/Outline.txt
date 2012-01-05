@@ -2,18 +2,17 @@
 - Numbers
 - Strings
 - Datatypes
-X Control-structures
+- Control-structures
 - Functions
 - Classes
 - Generators (http://stackoverflow.com/questions/101268/hidden-features-of-python#101739)
-X List-comprehensions (http://stackoverflow.com/questions/101268/hidden-features-of-python#101310)
-X New functions on the fly (closures)
-X Decorator (http://stackoverflow.com/questions/101268/hidden-features-of-python#101447)
+- List-comprehensions (http://stackoverflow.com/questions/101268/hidden-features-of-python#101310)
+- New functions on the fly (closures)
+- Decorator (http://stackoverflow.com/questions/101268/hidden-features-of-python#101447)
 - Descriptors (http://stackoverflow.com/questions/101268/hidden-features-of-python#102062)
-X New classes on the fly
-X New types on the fly (http://stackoverflow.com/questions/101268/hidden-features-of-python#108297)
-X Importing modules and packages
+- New types on the fly (http://stackoverflow.com/questions/101268/hidden-features-of-python#108297)
+- Importing modules and packages
 X The standard library
-X The Zen of Python (http://www.wefearchange.org/2010/06/import-this-and-zen-of-python.html)
+- The Zen of Python (http://www.wefearchange.org/2010/06/import-this-and-zen-of-python.html)
 X Notes about Python usage
 X Where to find more information
