@@ -332,10 +332,29 @@ The Zen of Python
     .. include:: code/zen.out
         :code:
 
-Python usage around the world
-=============================
+Interesting applications using Python
+=====================================
 
-TODO: Add some information from Notes and elsewhere
+- Two out of three popular distributed version control systems are written in Python (Bazaar and Mercurial)
+- The original BitTorrent client
+- Calibre, an open source e-book management tool
+- Dropbox, a web-based file hosting service
+- GNU Mailman, one of the more popular packages for running email mailing lists
+- Civilization IV and V uses Python for most of its internal scripting
+- Battlefield 2 uses Python for all of its addons and a lot of its functionality
+- Eve Online uses Stackless Python, both its server and client side applications
+- World of Tanks uses Python for most of its tasks
+- WingIDE, a Python IDE written in Python
+
+Other notable mentions of Python
+================================
+
+- Linux Journal Readers choice award three years running
+- reddit was originally written in Common Lisp, but was rewritten in Python in 2005
+- YouTube uses Python "to produce maintainable features in record times, with a minimum of developers"
+- Google App Engine launched with only Python support, Java came later
+- Google uses Python for many tasks including the backends of web apps such as Google Groups, Gmail, and Google Maps, as well as for some of its search-engine internals
+- NASA is using Python to implement a CAD/CAE/PDM repository and model management, integration, and transformation system which will be the core infrastructure for its next-generation collaborative engineering environment
 
 Where to go from here
 =====================

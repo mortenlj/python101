@@ -12,7 +12,7 @@
 - Descriptors (http://stackoverflow.com/questions/101268/hidden-features-of-python#102062)
 - New types on the fly (http://stackoverflow.com/questions/101268/hidden-features-of-python#108297)
 - Importing modules and packages
-X The standard library
+- The standard library
 - The Zen of Python (http://www.wefearchange.org/2010/06/import-this-and-zen-of-python.html)
-X Notes about Python usage
+- Notes about Python usage
 X Where to find more information
