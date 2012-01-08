@@ -1,13 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8
 
-# En enkel funksjon
+# A simple function
 def hello(name):
     print "Hello %s" % name
 
 hello("World")
 
-# En funksjon med varargs
+# A function with varargs
 def hello_all(*names):
     print "Hello %s" % ", ".join(names)
 

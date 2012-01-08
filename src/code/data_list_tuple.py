@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8
 
-# Liste
-l = ["Sult", "Humør", "Takhøyde"]
-l.append("Presisjon")
+# List
+l = ["Milk", "Egg", "Butter"]
+l.append("Candy")
 print l
 
 # Immutable list aka Tuple
-t = ("Sult", "Humør", "Takhøyde", "Presisjon")
+t = ("Red", "Blue", "Green")
 print t
