@@ -3,7 +3,7 @@
 
 # Import a module or package, get access to all names in module
 import os.path
-dir(os.path)
+print [x for x in dir(os.path) if not x.startswith("_")]
 
 # Import a specific name from module into own namespace
 from os.path import abspath
