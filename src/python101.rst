@@ -359,4 +359,9 @@ Other notable mentions of Python
 Where to go from here
 =====================
 
-TODO: Lots of links etc.
+This presentation
+    http://bitbucket.org/mortenlj/python101
+Python website
+    http://www.python.org
+Dive Into Python 3
+    http://www.diveintopython3.net
