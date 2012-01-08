@@ -12,11 +12,11 @@ clean :
 	"rst2odp.py" $< $@
 
 %.html : %.rst
-	"rst2s5.py" --theme-url ui/python101 $< $@
+	"rst2s5.py" --current-slide --theme-url ui/python101 $< $@
 
 $(RESULTS) : %out: %py
 	python $< > $@
 
-python101.odp : python101.rst ${SRCS} ${RESULTS}
+python101.odp : python101.rst ${SRCS} ${RESULTS} Makefile
 
-python101.html : python101.rst ${SRCS} ${RESULTS}
+python101.html : python101.rst ${SRCS} ${RESULTS} Makefile
