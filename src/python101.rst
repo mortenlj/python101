@@ -14,6 +14,14 @@ Python 101
 
     -- Randall Munroe
 
+.. topic:: Notes
+    :class: handout
+
+    - Python is an interpreted language, with strong dynamic typing
+    - Noted for clear, readable syntax
+    - Object-oriented, but supports procedural and functional styles aswell
+    - Runs "everywhere"
+
 Hello World
 ===========
 
@@ -26,6 +34,12 @@ Hello World
 
     .. include:: code/hello.out
         :code:
+
+.. topic:: Notes
+    :class: handout
+
+    - Shebang-line at the top
+    - Coding line. Optional, but if not present code is assumed to be ASCII
 
 Numbers
 =======
@@ -40,7 +54,6 @@ Numbers
     .. include:: code/numbers.out
         :code:
 
-
 Strings and formatting
 ======================
 
@@ -52,6 +65,19 @@ Strings and formatting
 .. topic:: Output
 
     .. include:: code/text.out
+        :code:
+
+Strings and formatting (2)
+==========================
+
+.. topic:: Code
+
+    .. include:: code/text2.py
+        :code: python
+
+.. topic:: Output
+
+    .. include:: code/text2.out
         :code:
 
 Built-in datatypes (dict)
@@ -67,6 +93,13 @@ Built-in datatypes (dict)
     .. include:: code/data_dict.out
         :code:
 
+.. topic:: Notes
+    :class: handout
+
+    - Looks a lot like JSON
+    - Output is the "repr" of a dict, which for all built-in types can be `eval`-ed back to the original object
+    - Used extensively internally in the language and highly optimized
+
 Built-in datatypes (list and tuple)
 ===================================
 
@@ -79,6 +112,11 @@ Built-in datatypes (list and tuple)
 
     .. include:: code/data_list_tuple.out
         :code:
+
+.. topic:: Notes
+    :class: handout
+
+    - List have methods allowing it to be used as a queue, stack, or a plain list
 
 Built-in datatypes (set)
 ========================
@@ -93,6 +131,11 @@ Built-in datatypes (set)
     .. include:: code/data_set.out
         :code:
 
+.. topic:: Notes
+    :class: handout
+
+    - Supports all common set-operations with syntax and methods
+
 Control structures (if)
 =======================
 
@@ -105,6 +148,13 @@ Control structures (if)
 
     .. include:: code/if.out
         :code:
+
+.. topic:: Notes
+    :class: handout
+
+    - Indentation is *significant*
+    - All code-blocks start with a `:`, and uses indentation to delineate the block
+    - Python has no `switch`-statement. Use either if-elif-else like here, or a dispatching dict
 
 Control structures (for)
 ========================
@@ -119,6 +169,12 @@ Control structures (for)
     .. include:: code/for.out
         :code:
 
+.. topic:: Notes
+    :class: handout
+
+    - For is a for-each loop. The typical C/Pascal-style loop can be emulated with `range`
+    - `else` is executed when the loop finishes normally (not using `break`)
+    - Can iterate over anything that supports the iterator protocol
 
 Control structures (while)
 ==========================
@@ -133,11 +189,11 @@ Control structures (while)
     .. include:: code/while.out
         :code:
 
-.. topic:: notes
-    :class: hidden print
+.. topic:: Notes
+    :class: handout
 
     - It's possible to add an `else`-clause to this, similar to the `for`-loop
-
+    - There is no do-while
 
 Control structures (try)
 ========================
@@ -151,6 +207,12 @@ Control structures (try)
 
     .. include:: code/try.out
         :code:
+
+.. topic:: Notes
+    :class: handout
+
+    - Can have multiple `except`-blocks
+    - Can mix `except` and `finally`
 
 Functions
 =========
@@ -178,7 +240,6 @@ Functions (2)
     .. include:: code/func2.out
         :code:
 
-
 Classes
 =======
 
@@ -191,6 +252,13 @@ Classes
 
     .. include:: code/classes.out
         :code:
+
+.. topic:: Notes
+    :class: handout
+
+    - Note that the syntax for a class method is the same as for a function
+    - Explicit self
+    - Explicit self allows taking a function and attaching it to a class after the fact
 
 Generators
 ==========
@@ -231,6 +299,12 @@ List-comprehensions
     .. include:: code/comprehensions.out
         :code:
 
+.. topic:: Notes
+    :class: handout
+
+    - List-comprehensions can be nested
+    - Beware: Too much usage harms readability!
+
 New functions on the fly
 ========================
 
@@ -243,6 +317,11 @@ New functions on the fly
 
     .. include:: code/new_func.out
         :code:
+
+.. topic:: Notes
+    :class: handout
+
+    - Note the fact that we can use a function just like any other variable
 
 Decorators
 ==========
@@ -257,6 +336,13 @@ Decorators
     .. include:: code/decorator.out
         :code:
 
+.. topic:: Notes
+    :class: handout
+
+    - This is where it gets tricky...
+    - We define a function that takes a function as an argument,
+      and returns a new function that calls the function that was passed in
+    - @-notation is just syntactic sugar, can be done "manually" as demonstrated
 
 Descriptors
 ===========
@@ -284,6 +370,12 @@ New types on the fly
     .. include:: code/new_type.out
         :code:
 
+.. topic:: Notes
+    :class: handout
+
+    - Build a domain-model on the fly, based on parsed input
+    - Create types from configuration
+
 Modules and packages
 ====================
 
@@ -296,6 +388,13 @@ Modules and packages
 
     .. include:: code/import_modules.out
         :code:
+
+.. topic:: Notes
+    :class: handout
+
+    - `dir` is a built-in function that returns a list of all attributes of an object
+    - `pprint` pretty-prints the object
+    - Imports search the `PYTHONPATH` for modules and packages with the given name
 
 The standard library
 ====================
@@ -319,6 +418,12 @@ The standard library
 - ... Tk GUI modules, unittesting, debugger, profilers, build-tools, reflection and introspection utils
 - ... Import hooks, tokenizer, Python compiler, disassembler, documention generator and lots more!
 
+.. topic:: Notes
+    :class: handout
+
+    - This is a shortened list of the available modules and packages in the standard library
+    - No need to read it all, just look at the docs later on
+
 The Zen of Python
 =================
 
@@ -331,6 +436,17 @@ The Zen of Python
 
     .. include:: code/zen.out
         :code:
+
+.. topic:: Notes
+    :class: handout
+
+    - The `this`-module is included as an easter egg
+    - Describes the essence of what many consider "pythonic" code
+    - Note especially:
+        - Explicit is better than implicit (ref. explicit self)
+        - Readability counts
+        - There should be one... (compare Perl: "There's more than one way to do it")
+        - ...refuse the temptation to guess
 
 Interesting applications using Python
 =====================================
@@ -361,7 +477,9 @@ Where to go from here
 
 This presentation
     http://bitbucket.org/mortenlj/python101
+
 Python website
     http://www.python.org
-Dive Into Python 3
+
+Dive Into Python 3 (Free online book)
     http://www.diveintopython3.net
