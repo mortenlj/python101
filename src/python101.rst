@@ -80,6 +80,20 @@ Strings and formatting (2)
     .. include:: code/text2.out
         :code:
 
+Strings and charsets
+====================
+
+.. topic:: Code
+
+    .. include:: code/unicode.py
+        :code: python
+
+.. topic:: Output
+
+    .. include:: code/unicode.out
+        :code:
+
+
 Built-in datatypes (dict)
 =========================
 
