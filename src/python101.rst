@@ -407,7 +407,6 @@ Modules and packages
     :class: handout
 
     - `dir` is a built-in function that returns a list of all attributes of an object
-    - `pprint` pretty-prints the object
     - Imports search the `PYTHONPATH` for modules and packages with the given name
 
 The standard library
