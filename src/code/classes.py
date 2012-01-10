@@ -11,6 +11,7 @@ class Indent(object):
     def output(self, msg):
         print "%s%s" % (self._indent(), msg)
 
+# Constructing an object looks a lot like calling a function
 i4 = Indent()
 i4.output("Test")
 i2 = Indent(2)
