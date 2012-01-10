@@ -3,8 +3,8 @@
 
 # Map aka Hash aka Dictionary
 d = {
-    "dev": "mod1.finntech.no",
-    "uat": "mod2.finnetch.no",
+    "key": "value",
+    5: "value for the key 5",
 }
-d["st"] = "mod3.finntech.no"
+d[True] = "the value for True"
 print d

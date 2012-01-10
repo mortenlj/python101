@@ -2,10 +2,10 @@
 # -*- coding: utf-8
 
 # List
-l = ["Milk", "Egg", "Butter"]
-l.append("Candy")
-print l
+shopping_list = ["Milk", "Egg", "Butter"]
+shopping_list.append("Candy")
+print shopping_list
 
 # Immutable list aka Tuple
-t = ("Red", "Blue", "Green")
-print t
+colors = ("Red", "Blue", "Green")
+print colors
