@@ -22,6 +22,30 @@ Python 101
     - Object-oriented, but supports procedural and functional styles aswell
     - Runs "everywhere"
 
+The Zen of Python
+=================
+
+.. topic:: Code
+
+    .. include:: code/zen.py
+        :code: python
+
+.. topic:: Output
+
+    .. include:: code/zen.out
+        :code:
+
+.. topic:: Notes
+    :class: handout
+
+    - The `this`-module is included as an easter egg
+    - Describes the essence of what many consider "pythonic" code
+    - Note especially:
+        - Explicit is better than implicit (ref. explicit self)
+        - Readability counts
+        - There should be one... (compare Perl: "There's more than one way to do it")
+        - ...refuse the temptation to guess
+
 Hello World
 ===========
 
@@ -80,17 +104,17 @@ Strings and formatting (2)
     .. include:: code/text2.out
         :code:
 
-Strings and charsets
-====================
+.. Strings and charsets
+.. ====================
 
-.. topic:: Code
+.. .. topic:: Code
 
-    .. include:: code/unicode.py
-        :code: python
+..     .. include:: code/unicode.py
+         :code: python
 
-.. topic:: Output
+.. .. topic:: Output
 
-    .. include:: code/unicode.out
+..     .. include:: code/unicode.out
         :code:
 
 
@@ -287,17 +311,17 @@ Generators
     .. include:: code/generator.out
         :code:
 
-Generators (2)
-==============
+.. Generators (2)
+.. ==============
 
-.. topic:: Code
+.. .. topic:: Code
 
-    .. include:: code/generator2.py
+..     .. include:: code/generator2.py
         :code: python
 
-.. topic:: Output
+.. .. topic:: Output
 
-    .. include:: code/generator2.out
+..     .. include:: code/generator2.out
         :code:
 
 List-comprehensions
@@ -358,33 +382,33 @@ Decorators
       and returns a new function that calls the function that was passed in
     - @-notation is just syntactic sugar, can be done "manually" as demonstrated
 
-Descriptors
-===========
+.. Descriptors
+.. ===========
 
-.. topic:: Code
+.. .. topic:: Code
 
-    .. include:: code/descriptors.py
+..     .. include:: code/descriptors.py
         :code: python
 
-.. topic:: Output
+.. .. topic:: Output
 
-    .. include:: code/descriptors.out
+..     .. include:: code/descriptors.out
         :code:
 
-New types on the fly
-====================
+.. New types on the fly
+.. ====================
 
-.. topic:: Code
+.. .. topic:: Code
 
-    .. include:: code/new_type.py
+..     .. include:: code/new_type.py
         :code: python
 
-.. topic:: Output
+.. .. topic:: Output
 
-    .. include:: code/new_type.out
+..     .. include:: code/new_type.out
         :code:
 
-.. topic:: Notes
+.. .. topic:: Notes
     :class: handout
 
     - Build a domain-model on the fly, based on parsed input
@@ -412,7 +436,7 @@ Modules and packages
 The standard library
 ====================
 
-    "Batteries included"
+    TL;DR: "Batteries included"
 
 - String Services: regex, diff, wrapping, charset encoding etc.
 - Data Types: dates and calendars, collections, weakrefs, deepcopy utils, pretty printing
@@ -436,30 +460,6 @@ The standard library
 
     - This is a shortened list of the available modules and packages in the standard library
     - No need to read it all, just look at the docs later on
-
-The Zen of Python
-=================
-
-.. topic:: Code
-
-    .. include:: code/zen.py
-        :code: python
-
-.. topic:: Output
-
-    .. include:: code/zen.out
-        :code:
-
-.. topic:: Notes
-    :class: handout
-
-    - The `this`-module is included as an easter egg
-    - Describes the essence of what many consider "pythonic" code
-    - Note especially:
-        - Explicit is better than implicit (ref. explicit self)
-        - Readability counts
-        - There should be one... (compare Perl: "There's more than one way to do it")
-        - ...refuse the temptation to guess
 
 Interesting applications using Python
 =====================================
@@ -494,5 +494,5 @@ This presentation
 Python website
     http://www.python.org
 
-Dive Into Python 3 (Free online book)
-    http://www.diveintopython3.net
+Dive Into Python (Free online book)
+    http://www.diveintopython.net
