@@ -65,58 +65,25 @@ Hello World
     - Shebang-line at the top
     - Coding line. Optional, but if not present code is assumed to be ASCII
 
-Numbers
-=======
+Numbers, and Strings, and Objects! Oh, my!
+==========================================
 
 .. topic:: Code
 
-    .. include:: code/numbers.py
+    .. include:: code/objects.py
         :code: python
 
 .. topic:: Output
 
-    .. include:: code/numbers.out
+    .. include:: code/objects.out
         :code:
 
-Strings and formatting
-======================
+.. topic:: Notes
+    :class: handout
 
-.. topic:: Code
-
-    .. include:: code/text.py
-        :code: python
-
-.. topic:: Output
-
-    .. include:: code/text.out
-        :code:
-
-Strings and formatting (2)
-==========================
-
-.. topic:: Code
-
-    .. include:: code/text2.py
-        :code: python
-
-.. topic:: Output
-
-    .. include:: code/text2.out
-        :code:
-
-.. Strings and charsets
-.. ====================
-
-.. .. topic:: Code
-
-..     .. include:: code/unicode.py
-         :code: python
-
-.. .. topic:: Output
-
-..     .. include:: code/unicode.out
-        :code:
-
+    - No need to declare a variable, just assign to it
+    - printf-style formatting of strings
+    - Everything is an object, with attributes and methods that can be called
 
 Built-in datatypes (dict)
 =========================
