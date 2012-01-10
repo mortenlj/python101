@@ -124,20 +124,20 @@ Built-in datatypes (list and tuple)
 
     - List have methods allowing it to be used as a queue, stack, or a plain list
 
-Built-in datatypes (set)
-========================
+.. Built-in datatypes (set)
+.. ========================
 
-.. topic:: Code
+.. .. topic:: Code
 
-    .. include:: code/data_set.py
+..     .. include:: code/data_set.py
         :code: python
 
-.. topic:: Output
+.. .. topic:: Output
 
-    .. include:: code/data_set.out
+..     .. include:: code/data_set.out
         :code:
 
-.. topic:: Notes
+.. .. topic:: Notes
     :class: handout
 
     - Supports all common set-operations with syntax and methods
