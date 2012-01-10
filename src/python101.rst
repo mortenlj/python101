@@ -84,6 +84,7 @@ Numbers, and Strings, and Objects! Oh, my!
     - No need to declare a variable, just assign to it
     - printf-style formatting of strings
     - Everything is an object, with attributes and methods that can be called
+    - There are no constants in Python, except by convention
 
 Built-in datatypes (dict)
 =========================
