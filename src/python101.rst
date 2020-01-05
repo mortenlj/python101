@@ -2,7 +2,7 @@
 Python 101
 ==========
 
-.. footer:: http://bitbucket.org/mortenlj/python101
+.. footer:: https://github.com/mortenlj/python101
 
 .. figure:: python.png
     :align: center
@@ -457,7 +457,7 @@ Where to go from here
 =====================
 
 This presentation
-    http://bitbucket.org/mortenlj/python101
+    https://github.com/mortenlj/python101
 
 Python website
     http://www.python.org

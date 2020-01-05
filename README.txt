@@ -8,7 +8,7 @@ This is a set of files/slides used to present an introduction to Python at an in
 
 The python.png image included here is from http://xkcd.com/353/.
 
-This presentation is written by Morten Lied Johansen, and can be found at http://bitbucket.org/mortenlj/python101.
+This presentation is written by Morten Lied Johansen, and can be found at https://github.com/mortenlj/python101.
 The presentation is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License:
 http://creativecommons.org/licenses/by-nc-sa/3.0/
 
