@@ -1,3 +1,7 @@
+
+*This is probably somewhat outdated now, use at your own risk.*
+
+
 Python 101
 ==========
 
